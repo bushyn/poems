@@ -1,0 +1,8 @@
+{
+  "name": "poems",
+  "main": "script.js",
+  "dependencies": {
+    "clean-css": "^3.4.4",
+    "jade": "^1.11.0"
+  }
+}

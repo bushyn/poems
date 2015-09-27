@@ -1,0 +1,17 @@
+doctype
+html
+  head
+    title= title
+    meta(name='viewport' content='width=device-width, initial-scale=1')
+    style
+      include styles.min.css
+  body
+    h2= title
+    if author
+      h3= author
+    section!= text
+    nav
+      a(href='../'+prev) ← prev
+      a(href='..') ↑ menu
+      a(href='../'+next) next →
+

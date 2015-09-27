@@ -1,0 +1,13 @@
+doctype
+html
+  head
+    title selected poems
+    meta(name='viewport' content='width=device-width, initial-scale=1')
+    style
+      include styles.min.css
+  body
+    h1 Selected Poems
+    ul
+      for poem in poems
+        li: a(href=poem.id)= poem.title+' '+poem.author
+
