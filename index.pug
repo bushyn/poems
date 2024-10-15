@@ -1,7 +1,7 @@
 doctype
 html
   head
-    title selected poems
+    title Selected Poems
     meta(name='viewport' content='width=device-width, initial-scale=1')
     style
       include styles.min.css
@@ -9,5 +9,9 @@ html
     h1 Selected Poems
     ul
       for poem in poems
-        li: a(href=poem.id)= poem.title+' '+poem.author
+        li: a(href=poem.id)
+          span= poem.title
+          if poem.author
+            | 
+            span= poem.author
 
