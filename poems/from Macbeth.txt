@@ -1,8 +1,8 @@
 from Macbeth
 
-    The queen, my lord, is dead.
+The queen, my lord, is dead.
 
-    She should have died hereafter;
+She should have died hereafter;
 There would have been a time for such a word.
 Tomorrow, and tomorrow, and tomorrow,
 Creeps in this petty pace from day to day,

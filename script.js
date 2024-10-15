@@ -16,7 +16,7 @@ function readPoem(fileName) {
   const content = fs.readFileSync(fileName, 'utf-8');
   const [header, text] = splitHeader(content);
   const [title, author] = splitAuthor(header);
-  return { id: header.replace(/(\s)+/g, '-'), title, author, text};
+  return { id: header.replace(/(\s|\.|\,)+/g, '-'), title, author, text};
 }
 
 function splitHeader(s) {
