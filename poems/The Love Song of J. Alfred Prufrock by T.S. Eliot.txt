@@ -2,13 +2,6 @@ The Love Song of
 J. Alfred Prufrock
 by T.S. Eliot
 
-    S'io credesse che mia risposta fosse
-    A persona che mai tornasse al mondo,
-    Questa fiamma staria senza piu scosse.
-    Ma perciocche giammai di questo fondo
-    Non torno vivo alcun, s'i'odo il vero,
-    Senza tema d'infamia ti rispondo.
-
 Let us go then, you and I,
 When the evening is spread out against the sky
 Like a patient etherized upon a table;
@@ -86,16 +79,12 @@ Arms that lie along a table, or wrap about a shawl.
 And should I then presume?
 And how should I begin?
 
-                * * *
-
 Shall I say, I have gone at dusk through narrow streets
 And watched the smoke that rises from the pipes
 Of lonely men in shirt-sleeves, leaning out of windows? ...
 
 I should have been a pair of ragged claws
 Scuttling across the floors of silent seas.
-
-                * * *
 
 And the afternoon, the evening, sleeps so peacefully!
 Smoothed by long fingers,
@@ -104,8 +93,7 @@ Stretched on the floor, here beside you and me.
 Should I, after tea and cakes and ices,
 Have the strength to force the moment to its crisis?
 But though I have wept and fasted, wept and prayed,
-Though I have seen my head (grown slightly bald)
-                                        brought in upon a platter,
+Though I have seen my head (grown slightly bald) brought in upon a platter,
 I am no prophet—and here's no great matter;
 I have seen the moment of my greatness flicker,
 And I have seen the eternal Footman hold my coat, and snicker,
@@ -127,8 +115,7 @@ That is not it, at all."
 And would it have been worth it, after all,
 Would it have been worth while,
 After the sunsets and the dooryards and the sprinkled streets,
-After the novels, after the teacups, after the skirts
-                                    that trail along the floor—
+After the novels, after the teacups, after the skirts that trail along the floor—
 And this, and so much more?—
 It is impossible to say just what I mean!
 But as if a magic lantern threw the nerves in patterns on a screen:
@@ -137,8 +124,6 @@ If one, settling a pillow or throwing off a shawl,
 And turning toward the window, should say:
 "That is not it at all,
 That is not what I meant, at all."
-
-                * * *
 
 No! I am not Prince Hamlet, nor was meant to be;
 Am an attendant lord, one that will do

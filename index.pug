@@ -3,13 +3,14 @@ html
   head
     title Selected Poems
     meta(name='viewport' content='width=device-width, initial-scale=1')
-    style
-      include styles.min.css
+    link(rel="stylesheet", href="styles.min.css")
+    for poem in poems
+      link(rel="prefetch", href=poem.url) 
   body
     h1 Selected Poems
     ul
       for poem in poems
-        li: a(href=poem.id)
+        li: a(href=poem.url)
           span= poem.title
           if poem.author
             | 

@@ -10,36 +10,30 @@ body {
 h1, h2, h3 {
   color: #E76E66;
   margin: 0;
-  padding: 0;
-  text-wrap: balance;
 }
 
 h1 {
   font-family: Zapfino, Georgia;
-  text-align: center;
-  font-size: 4.5em;
-  padding: 0.5em 0 1em;
-  line-height: 1;
+  font-size: 3em;
+  padding: 0.5em 0 1.2em;
+  line-height: 1.4;
   font-style: italic;
-  display: block;
 }
 
 h2 {
-  font-family: Zapfino, Georgia;
-  font-size: 1.5em;
-  line-height: 1.4;
-  padding: 0;
-  text-wrap: balance;
+  font-family: Georgia;
+  font-size: 2.44em;
+  line-height: 1.2;
   text-align: left;
   white-space: pre-wrap;
 }
 
 h3 {
-  padding: 0;
-  font-size: 1.2em;
-  font-variant: small-caps;
-  text-transform: lowercase;
+  font-size: 0.5em;
+  text-transform: uppercase;
+  line-height: 2.5;
   text-align: left;
+  letter-spacing: 1px;
 }
 
 ul {
@@ -60,7 +54,7 @@ a {
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 a + a {
-  margin-left: 3em;
+  margin-left: 2em;
 }
 
 a:hover,
@@ -78,22 +72,30 @@ article {
 }
 
 section {
-  padding: 4em 0em 4em;
+  padding: 3em 0em 5em;
   white-space: pre-wrap;
   text-align: left;
   text-wrap: pretty;
 }
 
 nav {
-font-variant: small-caps;
-text-align: left;
-font-size: 1em;
+  font-variant: small-caps;
+  text-align: left;
+  font-size: 1.1em; 
+  color: #E76E66;
 }
 
 @media(min-width: 560px) {
+  h1  {
+    font-size: 4em;
+    text-align: center;
+  }
+  h2 {
+    font-size: 2.16em;
+  }
   body {
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
     flex-direction: column;
     font-size: 18px;

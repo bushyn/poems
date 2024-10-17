@@ -1,11 +1,11 @@
 The Hollow Men
 by T. S. Eliot
 
-    <i>Mistah Kurtz—he dead.</i>
+	<i>Mistah Kurtz—he dead</i>
 
-        <i>A penny for the Old Guy</i>
+		<i>A penny for the Old Guy</i>
 
-        I
+	I
 
 We are the hollow men
 We are the stuffed men
@@ -28,7 +28,7 @@ Violent souls, but only
 As the hollow men
 The stuffed men.
 
-        II
+	II
 
 Eyes I dare not meet in dreams
 In death’s dream kingdom
@@ -53,7 +53,7 @@ No nearer—
 Not that final meeting
 In the twilight kingdom
 
-        III
+	III
 
 This is the dead land
 This is cactus land
@@ -70,7 +70,7 @@ Trembling with tenderness
 Lips that would kiss
 Form prayers to broken stone.
 
-        IV
+	IV
 
 The eyes are not here
 There are no eyes here
@@ -91,7 +91,7 @@ Of death’s twilight kingdom
 The hope only
 Of empty men.
 
-        V
+	V
 <i>
 Here we go round the prickly pear
 Prickly pear prickly pear
@@ -104,7 +104,7 @@ Between the motion
 And the act
 Falls the Shadow
 
-              <i>For Thine is the Kingdom</i>
+		<i>For Thine is the Kingdom</i>
 
 Between the conception
 And the creation
@@ -112,7 +112,7 @@ Between the emotion
 And the response
 Falls the Shadow
 
-              <i>Life is very long</i>
+		<i>Life is very long</i>
 
 Between the desire
 And the spasm
@@ -122,7 +122,7 @@ Between the essence
 And the descent
 Falls the Shadow
 
-              <i>For Thine is the Kingdom</i>
+		<i>For Thine is the Kingdom</i>
 
 For Thine is
 Life is

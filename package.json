@@ -1,6 +1,7 @@
 {
   "name": "poems",
   "main": "script.js",
+  "type": "module",
   "devDependencies": {
     "clean-css": "^5.3.3",
     "pug": "^3.0.3"
